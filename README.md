@@ -2,12 +2,12 @@
 
 [![ENS](https://img.shields.io/badge/ENS-cindo.eth-blue.svg)](https://app.ens.domains/cindo.eth)
 
-Selamat datang di repositori resmi **Cindo Labs**, sebuah platform inovatif yang menggabungkan pengalaman hospitalitas premium dengan peluang investasi berbasis blockchain. Kami adalah hotel kreatif yang menawarkan penginapan mewah, ruang bisnis strategis, dan investasi saham berbasis blockchain melalui smart contract.
+Selamat datang di repositori resmi **Cindo Labs**, sebuah platform inovatif yang menggabungkan pengalaman hospitalitas premium dengan peluang investasi berbasis blockchain. Kami adalah hotel kreatif yang menawarkan penginapan sederhana sampai mewah, ruang bisnis strategis, dan investasi saham berbasis blockchain melalui smart contract.
 
 ## Tentang Cindo Labs
-Cindo Labs adalah pionir dalam mengintegrasikan teknologi blockchain dengan industri hospitalitas. Visi kami adalah menciptakan pengalaman menginap yang tak terlupakan sambil memberikan peluang investasi yang transparan dan menguntungkan. Dengan menggunakan domain ENS `cindo.eth`, kami membangun identitas Web3 yang terpercaya dan terdesentralisasi.
+Cindo Labs adalah tim inti Puncak Lembah, Hocindo, cindo.eth dan arema.eth pionir perdagangan dalam mengintegrasikan dan memanfaatkan teknologi blockchain dengan industri hospitalitas. Visi kami adalah menciptakan pengalaman menginap yang tak terlupakan sambil memberikan peluang investasi yang transparan dan menguntungkan. Dengan menggunakan domain ENS `cindo.eth` & `arema.eth`, kami membangun identitas Web3 yang terpercaya dan terdesentralisasi.
 
-- **Website**: [cindolabs.streamlit.app](https://cindolabs.streamlit.app/)
+- **Website**: [cindolabs.github.io](https://cindolabs.github.io/)
 - **GitHub**: [github.com/cindolabs](https://github.com/cindolabs)
 - **ENS**: [cindo.eth](https://app.ens.domains/cindo.eth)
 - **Kontak**: [ringinbambu@gmail.com](mailto:ringinbambu@gmail.com) | WhatsApp: [+62 8999 587 888](https://wa.me/+628999587888)
