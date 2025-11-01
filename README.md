@@ -1,6 +1,6 @@
 # Cindo Labs
 
-[![ENS](https://img.shields.io/badge/ENS-cindo.eth-blue.svg)](https://app.ens.domains/cindo.eth)
+[![ENS](https://img.shields.io/badge/ENS-cindo.eth-blue.svg)](https://app.ens.domains/cindo.eth) [![ENS](https://img.shields.io/badge/ENS-arema.eth-blue.svg)](https://app.ens.domains/arema.eth)
 
 Selamat datang di repositori resmi **Cindo Labs**, sebuah platform inovatif yang menggabungkan pengalaman hospitalitas premium dengan peluang investasi berbasis blockchain. Kami adalah hotel kreatif yang menawarkan penginapan sederhana sampai mewah, ruang bisnis strategis, dan investasi saham berbasis blockchain melalui smart contract.
 
