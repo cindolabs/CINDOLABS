@@ -13,7 +13,7 @@
 
 ## Selamat Datang di CindoEth
 
-**CindoEth** adalah **laboratorium fintech terbuka** yang mempelajari, meniru, dan mengungguli model kesuksesan **bank terbesar dunia** —  
+**CindoEth** adalah **laboratorium fintech terbuka** yang mempelajari dan meniru model kesuksesan **bank terbesar dunia** —  
 **ICBC, CCB, ABC, BOC, JPMorgan Chase** —  
 dengan teknologi **blockchain, smart contract, dan identitas Web3**.
 
@@ -24,7 +24,7 @@ Kami adalah **blueprint masa depan keuangan terdesentralisasi**.
 
 ## Tentang CindoEth
 
-CindoEth adalah **inti inovasi** dari tim **Puncak Lembah**, **Hocindo**, dan pemilik ENS:  
+CindoEth adalah **inti inovasi** dari tim **Puncak Lembah**, **Cindo Labs**, dan pemilik ENS:  
 [`cindo.eth`](https://app.ens.domains/cindo.eth) | [`arema.eth`](https://app.ens.domains/arema.eth)
 
 ### Visi
