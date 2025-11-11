@@ -3,7 +3,7 @@
 
 [![ENS cindo.eth](https://img.shields.io/badge/ENS-cindo.eth-0066ff.svg?style=flat&logo=ethereum&logoColor=white)](https://app.ens.domains/cindo.eth)  
 [![ENS arema.eth](https://img.shields.io/badge/ENS-arema.eth-00d1b2.svg?style=flat&logo=ethereum&logoColor=white)](https://app.ens.domains/arema.eth)  
-[![GitHub Stars](https://img.shields.io/github/stars/cindolabs/cindolabs?style=social)](https://github.com/cindolabs)  
+[![GitHub Stars](https://img.shields.io/github/stars/cindoeth/cindoeth?style=social)](https://github.com/cindoeth/cindoeth)  
 [![X @cindolabs](https://img.shields.io/twitter/follow/cindolabs?style=social&logo=x)](https://x.com/cindolabs)
 
 > **Didirikan pada Portal 11:11 | 11 November 2025**  
@@ -94,30 +94,38 @@ CindoEth adalah **inti inovasi** dari tim **Puncak Lembah**, **Hocindo**, dan pe
    git clone https://github.com/cindoeth/cindoeth.git
    ```
 
-(Panduan lengkap di CONTRIBUTING.md — coming soon)Hubungi Kami  Email: ringinbambu@gmail.com (mailto:ringinbambu@gmail.com)  
-WA: +62 8999 587 888 (888 = kekayaan berlipat!)
+## Ikuti Perjalanan Kami
 
-Ikuti Perjalanan KamiPlatform
-Link
-Website
-cindolabs.github.io
-Instagram
-instagram.com/cindolabs
-X (Twitter)
-@cindolabs
+| Platform       | Link                                                                 |
+|----------------|----------------------------------------------------------------------|
+| Website        | [cindoeth.github.io](https://cindoeth.github.io/)                    |
+| Instagram      | [instagram.com/cindolabs](https://www.instagram.com/cindolabs/)      |
+| X (Twitter)    | [@cindolabs](https://x.com/cindolabs)                                |
+| Facebook       | [facebook.com/cindolabs](https://www.facebook.com/cindolabs)         |
 
-Facebook
-facebook.com/cindolabs
+---
 
-PenafianRepositori ini berisi riset, simulasi, dan prototipe eksperimental.
-Tidak ada jaminan keuntungan.
-Semua implementasi DeFi berisiko tinggi.
-Lakukan riset mandiri (DYOR) sebelum berinvestasi.
+## Kontribusi
 
-© 2025 CindoEth #6
-Dari Portal 11:11 menuju harmoni keuangan terdesentralisasi.
-cindo.eth — verified on-chain, trusted off-chain.
+Kami **membuka pintu lebar** untuk:  
+- Peneliti keuangan  
+- Developer Solidity & Rust  
+- Analis risiko DeFi  
+- Desainer UI/UX Web3  
 
+> **Fork → Build → PR → Audit → Deploy**
 
+---
 
+## Penafian
 
+> Repositori ini berisi **riset, simulasi, dan prototipe eksperimental**.  
+> Tidak ada jaminan keuntungan.  
+> Semua implementasi DeFi **berisiko tinggi**.  
+> Lakukan riset mandiri (DYOR) sebelum berinvestasi.
+
+---
+
+> **© 2025 CindoEth #6**  
+> *Dari Portal 11:11 menuju harmoni keuangan terdesentralisasi.*  
+> `cindo.eth` — **verified on-chain, trusted off-chain.**
