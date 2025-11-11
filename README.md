@@ -1,4 +1,4 @@
-# CindoEth  (cindut)
+# CindoEth *(dibaca: cindut)*  
 **Fintech Research & Innovation Lab | Web3 Banking Replication**
 
 [![ENS cindo.eth](https://img.shields.io/badge/ENS-cindo.eth-0066ff.svg?style=flat&logo=ethereum&logoColor=white)](https://app.ens.domains/cindo.eth)  
@@ -39,31 +39,31 @@ CindoEth adalah **inti inovasi** dari tim **Puncak Lembah**, **Cindo Labs**, dan
 
 ## Fitur Utama
 
-| Fitur | Deskripsi |
-|------|-----------|
+| Fitur                     | Deskripsi                                                                 |
+|---------------------------|---------------------------------------------------------------------------|
 | **Riset Perbankan Global** | Analisis model bisnis, risiko kredit, & efisiensi operasional bank terbesar dunia |
-| **DeFi Replication Lab** | Prototipe smart contract yang meniru produk perbankan tradisional |
-| **Open-Source Fintech Tools** | Dashboard analitik, model risiko, API, & simulasi DeFi |
-| **Web3 Identity** | `cindo.eth` tersinkronisasi dengan GitHub & alamat blockchain |
+| **DeFi Replication Lab**   | Prototipe smart contract yang meniru produk perbankan tradisional         |
+| **Open-Source Fintech Tools** | Dashboard analitik, model risiko, API, & simulasi DeFi                 |
+| **Web3 Identity**         | `cindo.eth` tersinkronisasi dengan GitHub & alamat blockchain             |
 
 ---
 
 ## Alamat Blockchain (Verified)
 
-| Chain | Alamat | Explorer |
-|------|--------|----------|
-| Bitcoin | `1CinDo3c1hzAsU8CVrhyTjcAymLATQw3Q8` | [mempool.space](https://mempool.space/address/1CinDo3c1hzAsU8CVrhyTjcAymLATQw3Q8) |
-| TON | `UQAleoed649QywoLVz3JUxaeyyGXm10MYOOQ2XKBMCEHTRwW` | [tonscan.org](https://tonscan.org/address/UQAleoed649QywoLVz3JUxaeyyGXm10MYOOQ2XKBMCEHTRwW) |
-| Ethereum | `0x95b4fBD6BEbe990Ee64Bd7F81fd43f82dF331868` → **cindo.eth** | [etherscan.io](https://etherscan.io/address/0x95b4fBD6BEbe990Ee64Bd7F81fd43f82dF331868) |
-| Solana | `cvS1nVAeUJb1xzXorFqYQBQPzA1WsjUAcFGV7xhiCKw` | [solscan.io](https://solscan.io/account/cvS1nVAeUJb1xzXorFqYQBQPzA1WsjUAcFGV7xhiCKw) |
+| Chain     | Alamat                                 | Explorer |
+|-----------|----------------------------------------|----------|
+| Bitcoin   | `1CinDo3c1hzAsU8CVrhyTjcAymLATQw3Q8` | [mempool.space](https://mempool.space/address/1CinDo3c1hzAsU8CVrhyTjcAymLATQw3Q8) |
+| TON       | `UQAleoed649QywoLVz3JUxaeyyGXm10MYOOQ2XKBMCEHTRwW` | [tonscan.org](https://tonscan.org/address/UQAleoed649QywoLVz3JUxaeyyGXm10MYOOQ2XKBMCEHTRwW) |
+| Ethereum  | `0x95b4fBD6BEbe990Ee64Bd7F81fd43f82dF331868` → **cindo.eth** | [etherscan.io](https://etherscan.io/address/0x95b4fBD6BEbe990Ee64Bd7F81fd43f82dF331868) |
+| Solana    | `cvS1nVAeUJb1xzXorFqYQBQPzA1WsjUAcFGV7xhiCKw` | [solscan.io](https://solscan.io/account/cvS1nVAeUJb1xzXorFqYQBQPzA1WsjUAcFGV7xhiCKw) |
 
 ---
 
 ## Numerologi CindoEth
 
-| Nama | Perhitungan | Angka Utama | Makna |
-|------|-------------|-------------|-------|
-| **CINDOETH** | C=3, I=9, N=5, D=4, O=6, E=5, T=2, H=8 → **42 → 4+2 = 6** | **6** | **Harmoni, tanggung jawab, kemakmuran, pelayanan** |
+| Nama           | Perhitungan                                 | Angka Utama | Makna |
+|----------------|---------------------------------------------|-------------|-------|
+| **CINDOETH**   | C=3, I=9, N=5, D=4, O=6, E=5, T=2, H=8 → **42 → 4+2 = 6** | **6** | **Harmoni, tanggung jawab, kemakmuran, pelayanan** |
 | **Hari Ini (11/11)** | Portal **11** (Master Number) + 6 → **17 → 1+7 = 8** | **8** | **Kekayaan, otoritas, kesuksesan materi** |
 
 > **CindoEth #6** — *Platform profit-sharing & stabilitas jangka panjang*  
@@ -92,7 +92,6 @@ CindoEth adalah **inti inovasi** dari tim **Puncak Lembah**, **Cindo Labs**, dan
 3. **Kontribusi**  
    ```bash
    git clone https://github.com/cindoeth/cindoeth.git
-   ```
 
 ## Ikuti Perjalanan Kami
 
