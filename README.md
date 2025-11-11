@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cindoeth/cindoeth.github.io/main/cindo1.svg" alt="CindoEth Logo" width="180">
+</p>
+
 # CindoEth *(dibaca: cendut)*  
 **Fintech Research & Innovation Lab | Web3 Banking Replication**
 
