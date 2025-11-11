@@ -1,47 +1,85 @@
-# Cindo Labs
+# CindoEth  
+**Fintech Research & Innovation Lab | Web3 Banking Replication**
 
-[![ENS](https://img.shields.io/badge/ENS-cindo.eth-blue.svg)](https://app.ens.domains/cindo.eth) [![ENS](https://img.shields.io/badge/ENS-arema.eth-blue.svg)](https://app.ens.domains/arema.eth)
+[![ENS cindo.eth](https://img.shields.io/badge/ENS-cindo.eth-0066ff.svg?style=flat&logo=ethereum&logoColor=white)](https://app.ens.domains/cindo.eth)  
+[![ENS arema.eth](https://img.shields.io/badge/ENS-arema.eth-00d1b2.svg?style=flat&logo=ethereum&logoColor=white)](https://app.ens.domains/arema.eth)  
+[![GitHub](https://img.shields.io/github/stars/cindolabs/cindolabs?style=social)](https://github.com/cindolabs)  
+[![X @cindolabs](https://img.shields.io/twitter/follow/cindolabs?style=social&logo=x)](https://x.com/cindolabs)
 
-Selamat datang di repositori resmi **Cindo Labs**, laboratorium teknologi keuangan (fintech lab) yang mempelajari, meniru, dan mengembangkan model kesuksesan institusi keuangan terbesar di dunia—seperti **ICBC, CCB, ABC, BOC, dan JPMorgan Chase**—dengan memanfaatkan teknologi blockchain, smart contract, dan identitas Web3.
+> **Didirikan pada Portal 11:11 | 11 November 2025**  
+> **CE = 205** → *205 Langkah Menuju Masa Depan Keuangan Terdesentralisasi*
 
-Kami adalah **fintech research & innovation hub** yang fokus pada replikasi strategi perbankan raksasa melalui sistem terdesentralisasi, transparan, dan skalabel.
+---
 
-## Tentang Cindo Labs
-Cindo Labs adalah tim inti Puncak Lembah, Hocindo, `cindo.eth`, dan `arema.eth` yang mempelajari struktur operasional, manajemen risiko, dan inovasi produk dari bank-bank terbesar dunia untuk diimplementasikan dalam ekosistem keuangan terdesentralisasi (DeFi). Visi kami adalah menciptakan **laboratorium fintech terbuka** yang menggabungkan data perbankan global dengan teknologi blockchain untuk menghasilkan solusi keuangan generasi baru.
+## Selamat Datang di CindoEth
 
-- **Website**: [cindolabs.github.io](https://cindolabs.github.io/)
-- **GitHub**: [github.com/cindolabs](https://github.com/cindolabs)
-- **ENS**: [cindo.eth](https://app.ens.domains/cindo.eth)
-- **Kontak**: [ringinbambu@gmail.com](mailto:ringinbambu@gmail.com) | WhatsApp: [+62 8999 587 888](https://wa.me/+628999587888)
-- **Alamat Blockchain**:
-  - Bitcoin: [1CinDo3c1hzAsU8CVrhyTjcAymLATQw3Q8](https://mempool.space/address/1CinDo3c1hzAsU8CVrhyTjcAymLATQw3Q8)
-  - TON: [UQAleoed649QywoLVz3JUxaeyyGXm10MYOOQ2XKBMCEHTRwW](https://tonscan.org/address/UQAleoed649QywoLVz3JUxaeyyGXm10MYOOQ2XKBMCEHTRwW)
+**CindoEth** adalah **laboratorium fintech terbuka** yang mempelajari, meniru, dan mengungguli model kesuksesan **bank terbesar dunia** —  
+**ICBC, CCB, ABC, BOC, JPMorgan Chase** —  
+dengan teknologi **blockchain, smart contract, dan identitas Web3**.
+
+Kami **bukan bank**.  
+Kami adalah **blueprint masa depan keuangan terdesentralisasi**.
+
+---
+
+## Tentang CindoEth
+
+CindoEth adalah **inti inovasi** dari tim **Puncak Lembah**, **Hocindo**, dan pemilik ENS:  
+[`cindo.eth`](https://app.ens.domains/cindo.eth) | [`arema.eth`](https://app.ens.domains/arema.eth)
+
+### Visi
+> Membangun **laboratorium fintech terbuka** yang menggabungkan **data perbankan global** dengan **teknologi blockchain** untuk menciptakan **sistem keuangan generasi baru**.
+
+### Misi
+- Replikasi strategi perbankan raksasa dalam ekosistem **DeFi**
+- Ciptakan **smart contract auditabel** untuk pinjaman, tabungan, & investasi
+- Sediakan **open-source tools** bagi developer & peneliti keuangan
+
+---
 
 ## Fitur Utama
-- **Riset Perbankan Global**: Analisis mendalam terhadap model bisnis, risiko kredit, dan efisiensi operasional bank terbesar dunia.
-- **DeFi Replication Lab**: Prototipe smart contract yang meniru produk perbankan (pinjaman, tabungan, investasi) dalam ekosistem terdesentralisasi.
-- **Open-Source Fintech Tools**: Dashboard analitik, model risiko, dan API untuk komunitas pengembang.
 
-## Mengapa Cindo Labs?
-- **Identitas Web3**: Domain `cindo.eth` tersinkronisasi dengan GitHub untuk verifikasi kepemilikan dan branding terdesentralisasi.
-- **Transparansi Total**: Semua smart contract, data riset, dan simulasi tersedia secara publik dan dapat diaudit.
-- **Komunitas Peneliti & Developer**: Bergabunglah untuk berkontribusi pada evolusi keuangan terdesentralisasi.
+| Fitur | Deskripsi |
+|------|-----------|
+| **Riset Perbankan Global** | Analisis model bisnis, risiko kredit, & efisiensi operasional bank terbesar dunia |
+| **DeFi Replication Lab** | Prototipe smart contract yang meniru produk perbankan tradisional |
+| **Open-Source Fintech Tools** | Dashboard analitik, model risiko, API, & simulasi DeFi |
+| **Web3 Identity** | `cindo.eth` tersinkronisasi dengan GitHub & alamat blockchain |
+
+---
+
+## Alamat Blockchain (Verified)
+
+| Chain | Alamat | Explorer |
+|------|--------|----------|
+| Bitcoin | `1CinDo3c1hzAsU8CVrhyTjcAymLATQw3Q8` | [mempool.space](https://mempool.space/address/1CinDo3c1hzAsU8CVrhyTjcAymLATQw3Q8) |
+| TON | `UQAleoed649QywoLVz3JUxaeyyGXm10MYOOQ2XKBMCEHTRwW` | [tonscan.org](https://tonscan.org/address/UQAleoed649QywoLVz3JUxaeyyGXm10MYOOQ2XKBMCEHTRwW) |
+| Ethereum | `0x95b4fBD6BEbe990Ee64Bd7F81fd43f82dF331868` → **cindo.eth** | [etherscan.io](https://etherscan.io/address/0x95b4fBD6BEbe990Ee64Bd7F81fd43f82dF331868) |
+| Solana | `cvS1nVAeUJb1xzXorFqYQBQPzA1WsjUAcFGV7xhiCKw` | [solscan.io](https://solscan.io/account/cvS1nVAeUJb1xzXorFqYQBQPzA1WsjUAcFGV7xhiCKw) |
+
+---
+
+## Mengapa CindoEth?
+
+- **Identitas Web3 Asli** → `cindo.eth` = kepemilikan terverifikasi  
+- **Transparansi 100%** → Semua kode, data, & smart contract open-source  
+- **Komunitas Global** → Peneliti, developer, & visioner DeFi  
+- **Numerologi 205** → **7** (misteri + inovasi) → cocok untuk blockchain
+
+> **Hari ini: 11/11/2025**  
+> **Portal 11:11 terbuka. Waktunya manifestasi.**
+
+---
 
 ## Cara Memulai
-1. **Jelajahi Riset Kami**: Kunjungi [cindolabs.streamlit.app](https://cindolabs.streamlit.app/) untuk laporan, simulasi, dan whitepaper.
-2. **Cek ENS**: Verifikasi identitas Web3 kami di [app.ens.domains](https://app.ens.domains/cindo.eth).
-3. **Kontribusi**: Clone repositori ini dan ikuti panduan di [CONTRIBUTING.md](#) (akan segera ditambahkan).
-4. **Hubungi Kami**: Diskusi riset, kolaborasi, atau konsultasi via email/WhatsApp.
 
-## Kontribusi
-Kami menyambut kontribusi dari peneliti, developer, dan analis keuangan! Silakan fork, buat pull request, atau laporkan issue untuk saran dan perbaikan.
+1. **Jelajahi Riset**  
+   → [cindolabs.streamlit.app](https://cindolabs.streamlit.app/)  
+   *Laporan, simulasi, whitepaper*
 
-## Ikuti Kami
-- **Instagram**: [instagram.com/cindolabs](https://www.instagram.com/cindolabs/)
-- **Twitter/X**: [x.com/cindolabs](https://x.com/cindolabs)
-- **Facebook**: [facebook.com/cindolabs](https://www.facebook.com/cindolabs)
+2. **Verifikasi ENS**  
+   → [cindo.eth](https://app.ens.domains/cindo.eth)
 
-## Penafian
-Repositori ini berisi materi riset, simulasi, dan prototipe eksperimental. Tidak ada jaminan keuntungan atau rekomendasi investasi. Semua implementasi DeFi memiliki risiko tinggi. Gunakan dengan bijak dan lakukan riset mandiri.
-
-&copy; 2025 Cindo Labs. Semua hak dilindungi.
+3. **Kontribusi**  
+   ```bash
+   git clone https://github.com/cindolabs/cindolabs.git
