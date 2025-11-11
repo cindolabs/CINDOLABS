@@ -114,6 +114,23 @@ Kami **membuka pintu lebar** untuk:
 
 > **Fork → Build → PR → Audit → Deploy**
 
+## 🛣️ Roadmap
+
+| Tahun | Fokus Utama | Rencana Strategis |
+|-------|-------------|------------------|
+| **2025** | Fondasi & Branding | - Peluncuran platform `Hocindo` <br> - Logo & identitas visual <br> - Website resmi & profil investasi |
+| **2026** | Ekspansi & Produk | - Pembukaan hotel kreatif pertama <br> - Paket pengalaman romantis & bisnis <br> - Program investasi properti tahap awal |
+| **2027** | Skala & Globalisasi | - Ekspansi ke beberapa kota besar di Indonesia <br> - Kemitraan internasional <br> - Platform investasi berbasis blockchain |
+
+---
+
+## 📬 Kontak
+📍 Jl. Panglima Sudirman No. 19,
+   Bandarkedungmulyo – Jombang,
+   Jawa Timur – Indonesia 🇮🇩   
+📧 Email: [ringinbambu@gmail.com](mailto:ringinbambu@gmail.com)  
+📱 WhatsApp: [+62 8999 587 888](https://wa.me/628999587888)  
+
 ---
 
 ## Penafian
