@@ -4,8 +4,6 @@
 
 > **Kemewahan Bertemu Blockchain**  
 > Hotel premium dengan peluang investasi saham berbasis **smart contract** — transparan, aman, dan menguntungkan.
->
-> “Di Newsui, Anda tidak hanya menginap — Anda berinvestasi di masa depan kemewahan.”
 ---
 
 ## Tentang Newsui
@@ -119,3 +117,4 @@ open index.html
 - `cindo.eth` — **verified on-chain, trusted off-chain.**
 - Dibuat dengan :heart: oleh Cindo Labs 
 - “Kita ada di sini sejak awal.”
+- “Di Newsui, Anda tidak hanya menginap — Anda berinvestasi di masa depan kemewahan.”
