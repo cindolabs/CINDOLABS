@@ -75,9 +75,9 @@ open index.html
 
 | Platform       | Link                                                                 |
 |----------------|----------------------------------------------------------------------|
-| Website        | [cindoeth.github.io](https://cindoeth.github.io/)                    |
+| Website        | [newsui.github.io](https://newsui.github.io/)                    |
 | Instagram      | [instagram.com/cindolabs](https://www.instagram.com/cindolabs/)      |
-| X (Twitter)    | [@cindolabs](https://x.com/cindolabs)                                |
+| X (Twitter)    | [@onydow](https://x.com/onydow)                                |
 | Facebook       | [facebook.com/cindolabs](https://www.facebook.com/cindolabs)         |
 
 ---
