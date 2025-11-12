@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/cindoeth/cindoeth.github.io/main/cindo1.svg" alt="CindoEth Logo" width="180">
 </p>
 
-# Nyusui
+# Newsui
 **Fintech Research & Innovation Lab | Web3 Banking Replication**
 
 [![ENS cindo.eth](https://img.shields.io/badge/ENS-cindo.eth-0066ff.svg?style=flat&logo=ethereum&logoColor=white)](https://app.ens.domains/cindo.eth)  
