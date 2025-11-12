@@ -4,7 +4,8 @@
 
 > **Kemewahan Bertemu Blockchain**  
 > Hotel premium dengan peluang investasi saham berbasis **smart contract** — transparan, aman, dan menguntungkan.
-
+>
+> “Di Newsui, Anda tidak hanya menginap — Anda berinvestasi di masa depan kemewahan.”
 ---
 
 ## Tentang Newsui
