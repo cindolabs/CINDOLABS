@@ -1,54 +1,62 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cindoeth/cindoeth.github.io/main/cindo1.svg" alt="CindoEth Logo" width="180">
-</p>
+# Newsui - Hotel Kreatif & Investasi Blockchain
 
-# Newsui
-**Fintech Research & Innovation Lab | Web3 Banking Replication**
+![Newsui Banner](https://r2.primal.net/cache/8/dd/96/8dd96aacddf188ba3d828a63e484911b33be9b224b70326c1998afd862ad2ddd.jpg)
 
-[![ENS cindo.eth](https://img.shields.io/badge/ENS-cindo.eth-0066ff.svg?style=flat&logo=ethereum&logoColor=white)](https://app.ens.domains/cindo.eth)  
-[![ENS arema.eth](https://img.shields.io/badge/ENS-arema.eth-00d1b2.svg?style=flat&logo=ethereum&logoColor=white)](https://app.ens.domains/arema.eth)  
-[![GitHub Stars](https://img.shields.io/github/stars/cindoeth/cindoeth?style=social)](https://github.com/cindoeth/CINDOETH)  
-[![X @cindolabs](https://img.shields.io/twitter/follow/cindolabs?style=social&logo=x)](https://x.com/cindolabs)
-
-> **Didirikan pada Portal 11:11 | 11 November 2025**  
-> **CINDOETH = 42 → 6** — *Harmoni Keuangan Terdesentralisasi*
+> **Kemewahan Bertemu Blockchain**  
+> Hotel premium dengan peluang investasi saham berbasis **smart contract** — transparan, aman, dan menguntungkan.
 
 ---
 
-## Selamat Datang di CindoEth
+## Tentang Newsui
 
-**CindoEth** adalah **laboratorium fintech terbuka** yang mempelajari dan meniru model kesuksesan **bank terbesar dunia** —  
-**ICBC, CCB, ABC, BOC, JPMorgan Chase** —  
-dengan teknologi **blockchain, smart contract, dan identitas Web3**.
+**Newsui** adalah proyek inovatif yang menggabungkan:
+- **Hospitality kelas dunia** (hotel sederhana hingga resor bintang 5)
+- **Investasi cerdas** melalui saham berbasis blockchain
+- **Smart contract** untuk bagi hasil otomatis & transparan
 
-Kami **bukan bank**.  
-Kami adalah **blueprint masa depan keuangan terdesentralisasi**.
-
----
-
-## Tentang CindoEth
-
-CindoEth adalah **inti inovasi** dari tim **Puncak Lembah**, **Cindo Labs**, dan pemilik ENS:  
-[`cindo.eth`](https://app.ens.domains/cindo.eth) | [`arema.eth`](https://app.ens.domains/arema.eth)
-
-### Visi
-> Membangun **laboratorium fintech terbuka** yang menggabungkan **data perbankan global** dengan **teknologi blockchain** untuk menciptakan **sistem keuangan generasi baru**.
-
-### Misi
-- Replikasi strategi perbankan raksasa dalam ekosistem **DeFi**
-- Ciptakan **smart contract auditabel** untuk pinjaman, tabungan, & investasi
-- Sediakan **open-source tools** bagi developer & peneliti keuangan
+Kami hadir untuk tamu yang mencari kemewahan — dan investor yang mencari masa depan.
 
 ---
 
 ## Fitur Utama
 
-| Fitur                     | Deskripsi                                                                 |
-|---------------------------|---------------------------------------------------------------------------|
-| **Riset Perbankan Global** | Analisis model bisnis, risiko kredit, & efisiensi operasional bank terbesar dunia |
-| **DeFi Replication Lab**   | Prototipe smart contract yang meniru produk perbankan tradisional         |
-| **Open-Source Fintech Tools** | Dashboard analitik, model risiko, API, & simulasi DeFi                 |
-| **Web3 Identity**         | `cindo.eth` tersinkronisasi dengan GitHub & alamat blockchain             |
+| Fitur | Deskripsi |
+|------|-----------|
+| **Penginapan Premium** | Kamar mewah, paket romantis, pernikahan impian |
+| **Investasi Saham Blockchain** | Beli saham hotel via smart contract |
+| **Bagi Hasil Otomatis** | Keuntungan langsung ke wallet investor |
+| **Dashboard Investor** | Lihat saldo, pertumbuhan, dan penarikan |
+| **Transparansi 100%** | Semua transaksi tercatat di blockchain |
+
+---
+
+## Demo Website
+
+[https://newsui.id](https://newsui.id) *(coming soon)*  
+Atau coba versi lokal:
+
+```bash
+git clone https://github.com/newsui/newsui.git
+cd newsui
+open index.html
+```
+
+### Struktur Folder
+
+| Path | Deskripsi | Link |
+|------|-----------|------|
+| `/` | Root proyek | [Lihat di GitHub](https://github.com/newsui/newsui) |
+| `index.html` | Halaman utama website | [index.html](https://github.com/newsui/newsui/blob/main/index.html) |
+| `styles.css` | Styling global (warna, layout, responsif) | [styles.css](https://github.com/newsui/newsui/blob/main/styles.css) |
+| `script.js` | Logika interaktif: scroll, chatbot, modal | [script.js](https://github.com/newsui/newsui/blob/main/script.js) |
+| `README.md` | Dokumentasi proyek (ini) | [README.md](https://github.com/newsui/newsui/blob/main/README.md) |
+| `LICENSE` | Lisensi MIT (open source) | [LICENSE](https://github.com/newsui/newsui/blob/main/LICENSE) |
+| `CI-Guideline-Newsui.pdf` | Panduan Corporate Identity | [CI-Guideline-Newsui.pdf](https://github.com/newsui/newsui/blob/main/CI-Guideline-Newsui.pdf) |
+| `assets/` | Folder aset visual | [assets/](https://github.com/newsui/newsui/tree/main/assets) |
+| `assets/cindo.svg` | Logo sementara (akan diganti) | [cindo.svg](https://github.com/newsui/newsui/blob/main/assets/cindo.svg) |
+| `assets/newsui-logo.svg` | Logo resmi Newsui (baru) | [newsui-logo.svg](https://github.com/newsui/newsui/blob/main/assets/newsui-logo.svg) |
+| `assets/welcome-icon.png` | Ikon banner selamat datang | [welcome-icon.png](https://github.com/newsui/newsui/blob/main/assets/welcome-icon.png) |
+| `assets/favicon.ico` | Favicon browser | [favicon.ico](https://github.com/newsui/newsui/blob/main/assets/favicon.ico) |
 
 ---
 
@@ -63,40 +71,6 @@ CindoEth adalah **inti inovasi** dari tim **Puncak Lembah**, **Cindo Labs**, dan
 
 ---
 
-## Numerologi CindoEth
-
-| Nama           | Perhitungan                                 | Angka Utama | Makna |
-|----------------|---------------------------------------------|-------------|-------|
-| **CINDOETH**   | C=3, I=9, N=5, D=4, O=6, E=5, T=2, H=8 → **42 → 4+2 = 6** | **6** | **Harmoni, tanggung jawab, kemakmuran, pelayanan** |
-| **Hari Ini (11/11)** | Portal **11** (Master Number) + 6 → **17 → 1+7 = 8** | **8** | **Kekayaan, otoritas, kesuksesan materi** |
-
-> **CindoEth #6** — *Platform profit-sharing & stabilitas jangka panjang*  
-> **Peluncuran 11:11 → Energi 8 → Hari terbaik untuk manifestasi keuangan!**
-
----
-
-## Mengapa CindoEth?
-
-- **Identitas Web3 Asli** → `cindo.eth` = kepemilikan terverifikasi  
-- **Transparansi 100%** → Semua kode, data, & smart contract open-source  
-- **Komunitas Global** → Peneliti, developer, & visioner DeFi  
-- **Energi 6 + 8** → Harmoni + Kekayaan
-
----
-
-## Cara Memulai
-
-1. **Jelajahi Riset**  
-   → [cindoeth.streamlit.app](https://cindoeth.streamlit.app/)  
-   *Laporan, simulasi, whitepaper*
-
-2. **Verifikasi ENS**  
-   → [cindo.eth](https://app.ens.domains/cindo.eth)
-
-3. **Kontribusi**  
-   ```bash
-   git clone https://github.com/cindoeth/cindoeth.git
-
 ## Ikuti Perjalanan Kami
 
 | Platform       | Link                                                                 |
@@ -107,16 +81,6 @@ CindoEth adalah **inti inovasi** dari tim **Puncak Lembah**, **Cindo Labs**, dan
 | Facebook       | [facebook.com/cindolabs](https://www.facebook.com/cindolabs)         |
 
 ---
-
-## Kontribusi
-
-Kami **membuka pintu lebar** untuk:  
-- Peneliti keuangan  
-- Developer Solidity & Rust  
-- Analis risiko DeFi  
-- Desainer UI/UX Web3  
-
-> **Fork → Build → PR → Audit → Deploy**
 
 ## 🛣️ Roadmap
 
@@ -136,16 +100,20 @@ Kami **membuka pintu lebar** untuk:
 📱 WhatsApp: [+62 8999 587 888](https://wa.me/628999587888)  
 
 ---
-
-## Penafian
+## Legal & Penafian
 
 > Repositori ini berisi **riset, simulasi, dan prototipe eksperimental**.  
 > Tidak ada jaminan keuntungan.  
 > Semua implementasi DeFi **berisiko tinggi**.  
 > Lakukan riset mandiri (DYOR) sebelum berinvestasi.
+> Informasi di sini bukan saran investasi.
+> Semua peluang investasi tunduk pada smart contract resmi dan dokumen hukum.
+> Gunakan dana yang siap hilang. Lakukan riset sendiri.
 
----
+Dibuat dengan :heart: oleh Cindo Labs
+“Kita ada di sini sejak awal.”
 
-> **© 2025 CindoEth #6**  
+> **© 2025 CindoEth**  
 > *Dari Portal 11:11 menuju harmoni keuangan terdesentralisasi.*  
 > `cindo.eth` — **verified on-chain, trusted off-chain.**
+
