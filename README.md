@@ -94,8 +94,8 @@ open index.html
 
 ## 📬 Kontak
 📍 Jl. Panglima Sudirman No. 19,
-   Bandarkedungmulyo – Jombang,
-   Jawa Timur – Indonesia 🇮🇩   
+   - Bandarkedungmulyo – Jombang,
+   - Jawa Timur – Indonesia 🇮🇩   
 📧 Email: [ringinbambu@gmail.com](mailto:ringinbambu@gmail.com)  
 📱 WhatsApp: [+62 8999 587 888](https://wa.me/628999587888)  
 
@@ -110,10 +110,11 @@ open index.html
 > Semua peluang investasi tunduk pada smart contract resmi dan dokumen hukum.
 > Gunakan dana yang siap hilang. Lakukan riset sendiri.
 
-Dibuat dengan :heart: oleh Cindo Labs
-“Kita ada di sini sejak awal.”
+## Lisensi
 
-> **© 2025 CindoEth**  
-> *Dari Portal 11:11 menuju harmoni keuangan terdesentralisasi.*  
-> `cindo.eth` — **verified on-chain, trusted off-chain.**
-
+- © 2025 Newsui. All rights reserved.
+- Kode sumber: MIT License (lihat LICENSE)  
+- Aset visual: Hak cipta dilindungi  
+- `cindo.eth` — **verified on-chain, trusted off-chain.**
+- Dibuat dengan :heart: oleh Cindo Labs 
+- “Kita ada di sini sejak awal.”
