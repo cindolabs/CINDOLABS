@@ -1,8 +1,8 @@
-# Ngroso - Hotel Kreatif & Investasi Blockchain
+# Ngroso - Hotel Kreatif & Investasi Bitcoin
 
 ![Ngroso Banner](https://r2.primal.net/cache/8/dd/96/8dd96aacddf188ba3d828a63e484911b33be9b224b70326c1998afd862ad2ddd.jpg)
 
-> **Kemewahan Bertemu Blockchain**  
+> **Kemewahan Bertemu Bitcoin**  
 > Hotel premium dengan peluang investasi saham berbasis **smart contract** — transparan, aman, dan menguntungkan.
 ---
 
@@ -10,7 +10,7 @@
 
 **Ngroso** adalah proyek inovatif yang menggabungkan:
 - **Hospitality kelas dunia** (hotel sederhana hingga resor bintang 5)
-- **Investasi cerdas** melalui saham berbasis blockchain
+- **Investasi cerdas** melalui saham berbasis bitcoin
 - **Smart contract** untuk bagi hasil otomatis & transparan
 
 Kami hadir untuk tamu yang mencari kemewahan — dan investor yang mencari masa depan.
@@ -22,7 +22,7 @@ Kami hadir untuk tamu yang mencari kemewahan — dan investor yang mencari masa 
 | Fitur | Deskripsi |
 |------|-----------|
 | **Penginapan Premium** | Kamar mewah, paket romantis, pernikahan impian |
-| **Investasi Saham Blockchain** | Beli saham hotel via smart contract |
+| **Investasi Saham Bitcoin** | Beli saham hotel via smart contract |
 | **Bagi Hasil Otomatis** | Keuntungan langsung ke wallet investor |
 | **Dashboard Investor** | Lihat saldo, pertumbuhan, dan penarikan |
 | **Transparansi 100%** | Semua transaksi tercatat di blockchain |
@@ -87,7 +87,7 @@ open index.html
 |-------|-------------|------------------|
 | **2025** | Fondasi & Branding | - Peluncuran platform `Hocindo` <br> - Logo & identitas visual <br> - Website resmi & profil investasi |
 | **2026** | Ekspansi & Produk | - Pembukaan hotel kreatif pertama <br> - Paket pengalaman romantis & bisnis <br> - Program investasi properti tahap awal |
-| **2027** | Skala & Globalisasi | - Ekspansi ke beberapa kota besar di Indonesia <br> - Kemitraan internasional <br> - Platform investasi berbasis blockchain |
+| **2027** | Skala & Globalisasi | - Ekspansi ke beberapa kota besar di Indonesia <br> - Kemitraan internasional <br> - Platform investasi berbasis bitcoin |
 
 ---
 
