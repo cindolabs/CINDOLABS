@@ -1,14 +1,14 @@
-# Ngemieo - Hotel Kreatif & Investasi Blockchain
+# Ngroso - Hotel Kreatif & Investasi Blockchain
 
-![Newsui Banner](https://r2.primal.net/cache/8/dd/96/8dd96aacddf188ba3d828a63e484911b33be9b224b70326c1998afd862ad2ddd.jpg)
+![Ngroso Banner](https://r2.primal.net/cache/8/dd/96/8dd96aacddf188ba3d828a63e484911b33be9b224b70326c1998afd862ad2ddd.jpg)
 
 > **Kemewahan Bertemu Blockchain**  
 > Hotel premium dengan peluang investasi saham berbasis **smart contract** — transparan, aman, dan menguntungkan.
 ---
 
-## Tentang Newsui
+## Tentang Ngroso
 
-**Newsui** adalah proyek inovatif yang menggabungkan:
+**Ngroso** adalah proyek inovatif yang menggabungkan:
 - **Hospitality kelas dunia** (hotel sederhana hingga resor bintang 5)
 - **Investasi cerdas** melalui saham berbasis blockchain
 - **Smart contract** untuk bagi hasil otomatis & transparan
@@ -31,12 +31,12 @@ Kami hadir untuk tamu yang mencari kemewahan — dan investor yang mencari masa 
 
 ## Demo Website
 
-[https://newsui.id](https://newsui.id) *(coming soon)*  
+[https://ngroso.id](https://ngroso.id) *(coming soon)*  
 Atau coba versi lokal:
 
 ```bash
-git clone https://github.com/newsui/newsui.git
-cd newsui
+git clone https://github.com/ngroso/ngroso.git
+cd ngroso
 open index.html
 ```
 
@@ -44,18 +44,18 @@ open index.html
 
 | Path | Deskripsi | Link |
 |------|-----------|------|
-| `/` | Root proyek | [Lihat di GitHub](https://github.com/newsui/newsui) |
-| `index.html` | Halaman utama website | [index.html](https://github.com/newsui/newsui/blob/main/index.html) |
-| `styles.css` | Styling global (warna, layout, responsif) | [styles.css](https://github.com/newsui/newsui/blob/main/styles.css) |
-| `script.js` | Logika interaktif: scroll, chatbot, modal | [script.js](https://github.com/newsui/newsui/blob/main/script.js) |
-| `README.md` | Dokumentasi proyek (ini) | [README.md](https://github.com/newsui/newsui/blob/main/README.md) |
-| `LICENSE` | Lisensi MIT (open source) | [LICENSE](https://github.com/newsui/newsui/blob/main/LICENSE) |
-| `CI-Guideline-Newsui.pdf` | Panduan Corporate Identity | [CI-Guideline-Newsui.pdf](https://github.com/newsui/newsui/blob/main/CI-Guideline-Newsui.pdf) |
-| `assets/` | Folder aset visual | [assets/](https://github.com/newsui/newsui/tree/main/assets) |
-| `assets/cindo.svg` | Logo sementara (akan diganti) | [cindo.svg](https://github.com/newsui/newsui/blob/main/assets/cindo.svg) |
-| `assets/newsui-logo.svg` | Logo resmi Newsui (baru) | [newsui-logo.svg](https://github.com/newsui/newsui/blob/main/assets/newsui-logo.svg) |
-| `assets/welcome-icon.png` | Ikon banner selamat datang | [welcome-icon.png](https://github.com/newsui/newsui/blob/main/assets/welcome-icon.png) |
-| `assets/favicon.ico` | Favicon browser | [favicon.ico](https://github.com/newsui/newsui/blob/main/assets/favicon.ico) |
+| `/` | Root proyek | [Lihat di GitHub](https://github.com/ngroso/ngroso) |
+| `index.html` | Halaman utama website | [index.html](https://github.com/ngroso/ngroso/blob/main/index.html) |
+| `styles.css` | Styling global (warna, layout, responsif) | [styles.css](https://github.com/ngroso/ngroso/blob/main/styles.css) |
+| `script.js` | Logika interaktif: scroll, chatbot, modal | [script.js](https://github.com/ngroso/ngroso/blob/main/script.js) |
+| `README.md` | Dokumentasi proyek (ini) | [README.md](https://github.com/ngroso/ngroso/blob/main/README.md) |
+| `LICENSE` | Lisensi MIT (open source) | [LICENSE](https://github.com/ngroso/ngroso/blob/main/LICENSE) |
+| `CI-Guideline-Ngroso.pdf` | Panduan Corporate Identity | [CI-Guideline-Ngroso.pdf](https://github.com/ngroso/ngroso/blob/main/CI-Guideline-Ngroso.pdf) |
+| `assets/` | Folder aset visual | [assets/](https://github.com/ngroso/ngroso/tree/main/assets) |
+| `assets/cindo.svg` | Logo sementara (akan diganti) | [cindo.svg](https://github.com/ngroso/ngroso/blob/main/assets/cindo.svg) |
+| `assets/newsui-logo.svg` | Logo resmi Newsui (baru) | [ngroso-logo.svg](https://github.com/ngroso/ngroso/blob/main/assets/ngroso-logo.svg) |
+| `assets/welcome-icon.png` | Ikon banner selamat datang | [welcome-icon.png](https://github.com/ngroso/ngroso/blob/main/assets/welcome-icon.png) |
+| `assets/favicon.ico` | Favicon browser | [favicon.ico](https://github.com/ngroso/ngroso/blob/main/assets/favicon.ico) |
 
 ---
 
@@ -74,9 +74,9 @@ open index.html
 
 | Platform       | Link                                                                 |
 |----------------|----------------------------------------------------------------------|
-| Website        | [newsui.github.io](https://newsui.github.io/)                    |
+| Website        | [ngroso.github.io](https://ngroso.github.io/)                    |
 | Instagram      | [instagram.com/cindolabs](https://www.instagram.com/cindolabs/)      |
-| X (Twitter)    | [@onydow](https://x.com/onydow)                                |
+| X (Twitter)    | [@ngroso9](https://x.com/ngroso9)                                |
 | Facebook       | [facebook.com/cindolabs](https://www.facebook.com/cindolabs)         |
 
 ---
@@ -111,10 +111,10 @@ open index.html
 
 ## Lisensi
 
-- © 2025 Newsui. All rights reserved.
+- © 2025 Ngroso. All rights reserved.
 - Kode sumber: MIT License (lihat LICENSE)  
 - Aset visual: Hak cipta dilindungi  
 - `cindo.eth` — **verified on-chain, trusted off-chain.**
 - Dibuat dengan :heart: oleh Cindo Labs 
 - “Kita ada di sini sejak awal.”
-- “Di Newsui, Anda tidak hanya menginap — Anda berinvestasi di masa depan kemewahan.”
+- “Di Ngroso, Anda tidak hanya menginap — Anda berinvestasi di masa depan kemewahan.”
